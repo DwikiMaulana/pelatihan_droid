@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geometri Calculator</string>
+    <string-array name="geo_operator">
+        <item> persegi </item>
+        <item> segitiga </item>
+        <item> lingkaran </item>
+    </string-array>
+</resources>
